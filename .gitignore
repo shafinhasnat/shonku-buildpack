@@ -1,0 +1,5 @@
+venv/
+build/
+buildpack.egg-info/
+__pycache__/
+Sonkufile
